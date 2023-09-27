@@ -196,8 +196,9 @@ h2{
   transform: translateY(-180px);
 }
 button{
-  
-
+  font-weight:700px;
+  color:white;
+text-decoration:none;
   justify-content: center;
   text-align: center;
   padding: 10px;
